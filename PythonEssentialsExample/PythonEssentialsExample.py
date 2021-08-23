@@ -8,10 +8,11 @@
 
 #4) take an input from the user called numUser
 
-#5)a create a variable called highNumber with the value assigned to 100
+#5)a create a variable called highNumber with the value assigned to 10
 
 #5b perform a decision within the code which will output "High Number" 
 #if the product of numUser and numSum is greater than highNumber
+#and "Low Number" if smaller than 10 
 
 #6) create a list called firstList with the numbers 1-20 stored in it
 
