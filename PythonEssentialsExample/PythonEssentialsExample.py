@@ -40,7 +40,7 @@
 
 #12) The values shown in question 10 refer to the number of goals scored by the following players 
 #Rooney, Vardy, Heskey, Owen, Grielish, Sterling, Pele, Maradona, Walker
-#Create a second tuple which stores these values
+#Create a second tuple which stores these players
 
 #13)) using the above tuples, link them via a dictionary.
 #for example, Rooney:3, Vardy:4 etc. You should use your two tuples to construct the 
