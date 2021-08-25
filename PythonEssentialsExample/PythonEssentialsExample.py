@@ -32,3 +32,16 @@
 #
 #9b) once you have done 9a, make a change so that if the user doesnt input an end number 
 #it automatically uses 10
+
+#10)create a function which takes in a list of numbers as an argument. It then returns the number
+#of odd numbers within the list. For example [3,4,5] should return 2
+
+#11) create a tuple which stores the following values 3,4,6,5,3,5,7,8,5
+
+#12) The values shown in question 10 refer to the number of goals scored by the following players 
+#Rooney, Vardy, Heskey, Owen, Grielish, Sterling, Pele, Maradona, Walker
+#Create a second tuple which stores these values
+
+#13)) using the above tuples, link them via a dictionary.
+#for example, Rooney:3, Vardy:4 etc. You should use your two tuples to construct the 
+#dictionary
